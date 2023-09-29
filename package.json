@@ -1,0 +1,19 @@
+{
+  "name": "livetdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "supertest": "^6.3.3"
+  }
+}
